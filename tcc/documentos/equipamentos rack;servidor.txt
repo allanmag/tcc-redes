@@ -1,0 +1,13 @@
+   EQUIPAMENTOS RACK LABORATORIO
+D-Link Des -1016d  TOPO
+2 uplink um em cada switch
+Ecs2100-28p Marca edgcore MEIO
+Dn sf 1024  BAIXO
+
+           EQUIPAMENTOS SOBRANDO
+Alied telesyn international Modelo ait -301618 serial f06i7022e NA CAIXA
+Centrcon 3016tr USADO
+
+           EQUIPAMENTOS SERVIDOR
+Xb30330 system   UNICO USADO
+Teu datacon dmswtch210rg2-edd  CONVERSOR DE FIBRA PRA CABO RJ45
